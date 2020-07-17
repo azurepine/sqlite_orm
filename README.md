@@ -1,3 +1,6 @@
+“[sqlite_orm] is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial”
+<!--<a href="https://tracking.gitads.io/?repo=sqlite_orm"> <img src="https://images.gitads.io/sqlite_orm" alt="GitAds"/> </a>-->
+
 <p align="center">
   <img src="https://github.com/fnc12/sqlite_orm/blob/master/logo.png" alt="Sublime's custom image" width="557"/>
 </p>
